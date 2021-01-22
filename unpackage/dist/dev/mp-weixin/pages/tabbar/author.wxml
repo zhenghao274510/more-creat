@@ -1,0 +1,1 @@
+<view class="data-v-d7d51a9a"><view class="header data-v-d7d51a9a"><image src="/static/img/logo@2x.png" class="data-v-d7d51a9a"></image></view><button class="bottom data-v-d7d51a9a" type="primary" open-type="getUserInfo" lang="zh_CN" data-event-opts="{{[['getuserinfo',[['bindGetUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">微信授权登录</button></view>

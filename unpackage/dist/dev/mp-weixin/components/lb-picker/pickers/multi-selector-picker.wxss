@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.picker-item .lb-picker-column.data-v-bb9580ee {
+  padding: 0;
+  font-size: 36rpx;
+  text-align: center;
+  box-sizing: border-box;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.picker-item .lb-picker-column .lb-picker-column-label.data-v-bb9580ee {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+

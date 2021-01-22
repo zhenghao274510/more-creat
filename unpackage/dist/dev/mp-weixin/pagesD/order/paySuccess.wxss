@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+view {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.icon {
+  width: 100%;
+  margin-top: 10vw;
+}
+.icon image {
+  width: 25vw;
+  height: 25vw;
+}
+.tis {
+  width: 100%;
+  margin-top: 20rpx;
+  font-size: 30rpx;
+  color: #333333;
+}
+.pay-amount {
+  width: 100%;
+  margin-top: 10rpx;
+  font-size: 32rpx;
+}
+.back {
+  width: 100%;
+  margin-top: 80rpx;
+}
+.back .btn {
+  padding: 0 50rpx;
+  height: 70rpx;
+  background-color: #FF4848;
+  color: #FFFFFF;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-radius: 40rpx;
+  font-size: 26rpx;
+}
+

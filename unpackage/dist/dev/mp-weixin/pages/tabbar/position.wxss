@@ -1,0 +1,45 @@
+
+page {
+  width: 100%;
+  height: 100%;
+}
+
+
+.box.data-v-14332751,
+#mymap.data-v-14332751 {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+}
+.searchList.data-v-14332751 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+  overflow-y: scroll;
+  background: #fff;
+}
+.searchList .addres-item.data-v-14332751 {
+  padding: 5px 10px;
+  height: 40px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 12px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: relative;
+  border-bottom: 1px solid #ccc;
+}
+.item-name.data-v-14332751,.item-address.data-v-14332751{
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+

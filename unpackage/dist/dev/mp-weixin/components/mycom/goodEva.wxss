@@ -1,0 +1,106 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 评价 */
+.eva-section.data-v-f56b3b24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding: 30rpx;
+  background: #fff;
+  margin-bottom: 16rpx;
+}
+.eva-section .e-header.data-v-f56b3b24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 70rpx;
+}
+.eva-section .e-header .tit.data-v-f56b3b24 {
+  margin-right: 4rpx;
+}
+.eva-section .e-header .tip.data-v-f56b3b24 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: right;
+  color: #666666;
+}
+.eva-section .e-header .icon-you.data-v-f56b3b24 {
+  margin-left: 10rpx;
+}
+.score-con.data-v-f56b3b24 {
+  padding: 20rpx 0;
+}
+.score.data-v-f56b3b24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.eva-active.data-v-f56b3b24 {
+  padding: 20rpx;
+  border-radius: 8rpx;
+  background-color: #f8f8f8;
+}
+.img.data-v-f56b3b24 {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+}
+.bigimg.data-v-f56b3b24 {
+  width: 180rpx;
+  height: 180rpx;
+  margin-right: 20rpx;
+}
+.eva-img-con.data-v-f56b3b24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 20rpx 0;
+}
+.eva-top.data-v-f56b3b24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  background: #FFFFFF;
+}
+.eva-right.data-v-f56b3b24 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.name.data-v-f56b3b24 {
+  margin-bottom: 20rpx;
+}
+.time.data-v-f56b3b24 {
+  color: #333333;
+  font-size: 24rpx;
+}
+

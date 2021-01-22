@@ -1,0 +1,153 @@
+{
+  "pages": [
+    "pages/tabbar/map",
+    "pages/tabbar/author",
+    "pages/tabbar/newwebview",
+    "pages/tabbar/shopList",
+    "pages/tabbar/home",
+    "pages/tabbar/order",
+    "pages/tabbar/cart",
+    "pages/tabbar/mine",
+    "pages/tabbar/position"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "mine/message",
+        "mine/person_msg",
+        "mine/shopStore",
+        "mine/goodStore",
+        "mine/shopInfo",
+        "mine/address",
+        "mine/addressManage",
+        "mine/bindtell",
+        "mine/Contact",
+        "mine/account",
+        "mine/shopenter",
+        "mine/income"
+      ],
+      "name": "shop"
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "search/search_index",
+        "classChild/twoClass",
+        "classChild/firstClass",
+        "classChild/threeClass",
+        "classChild/homeClass",
+        "search/search_list"
+      ],
+      "name": "search"
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "order/orderDetails",
+        "order/subTui",
+        "order/useEva",
+        "order/finishOrder",
+        "order/paySuccess"
+      ],
+      "name": "order"
+    },
+    {
+      "root": "pagesE",
+      "pages": [
+        "shop/evaList",
+        "shop/shopDetails",
+        "shop/eatDetails",
+        "shop/goodsDetails",
+        "shop/totalDetails"
+      ],
+      "name": "details"
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "enterform/Merchant",
+        "enterform/Hotel",
+        "enterform/Restaurant",
+        "enterform/Supplier",
+        "enterform/partners",
+        "enterform/salesman",
+        "enterform/partnersList"
+      ],
+      "name": "from"
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "馨网购",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#FF4848",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabs/dibu_shouye@2x.png",
+        "selectedIconPath": "static/tabs/dibu_shouye2@2x.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/cart",
+        "iconPath": "static/tabs/dibu_gouwuche@2x.png",
+        "selectedIconPath": "static/tabs/dibu_gouwuche2@2x.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabbar/order",
+        "iconPath": "static/tabs/dibu_dingdan@2x.png",
+        "selectedIconPath": "static/tabs/dibu_dingdan2@2x.png",
+        "text": "我的订单"
+      },
+      {
+        "pagePath": "pages/tabbar/mine",
+        "iconPath": "static/tabs/dibu_wode@2x.png",
+        "selectedIconPath": "static/tabs/dibu_wode2@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/tabbar/map": {
+      "network": "all",
+      "packages": [
+        "shop",
+        "details"
+      ]
+    },
+    "pages/tabbar/order": {
+      "network": "all",
+      "packages": [
+        "order"
+      ]
+    },
+    "pages/tabbar/home": {
+      "network": "all",
+      "packages": [
+        "search"
+      ]
+    },
+    "pagesA/mine/shopenter": {
+      "network": "all",
+      "packages": [
+        "from"
+      ]
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序的定位"
+    }
+  },
+  "usingComponents": {
+    "s-pull-scroll": "/components/s-pull-scroll/index"
+  },
+  "sitemapLocation": "sitemap31.json"
+}

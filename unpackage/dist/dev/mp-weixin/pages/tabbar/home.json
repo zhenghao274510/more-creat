@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "sx-rate": "/components/uni-rate/uni-rate"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "finsed-select": "/components/finsed-select"
+  }
+}

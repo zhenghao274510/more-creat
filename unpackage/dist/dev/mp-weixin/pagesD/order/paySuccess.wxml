@@ -1,0 +1,1 @@
+<view><view class="icon"><image src="/static/img/zhifuchengg@2x.png"></image></view><view class="tis">订单支付成功</view><view class="back"><view data-event-opts="{{[['tap',[['toOrder',['$event']]]]]}}" class="btn" bindtap="__e">返回首页</view></view></view>

@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.all.data-v-21b9655c {
+  position: relative;
+  padding: 0 20rpx;
+  background: #ffffff;
+}
+.all .contains.data-v-21b9655c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  position: relative;
+}
+.all .contains .more.data-v-21b9655c {
+  background: -webkit-linear-gradient(135deg, #ff8940 0%, #ff5514 100%);
+  background: linear-gradient(-45deg, #ff8940 0%, #ff5514 100%);
+  box-shadow: 0px 5px 9px 0px rgba(255, 114, 45, 0.5);
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  width: 88rpx;
+  height: 88rpx;
+}
+.all .contains .more .img.data-v-21b9655c {
+  width: 60rpx;
+  height: 60rpx;
+}
+.all .contains .nav-item.data-v-21b9655c {
+  width: 20%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.all .contains .nav-item image.data-v-21b9655c {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+.all .contains .nav-item text.data-v-21b9655c {
+  font-size: 12px;
+  color: #666;
+  margin-top: 7px;
+}
+

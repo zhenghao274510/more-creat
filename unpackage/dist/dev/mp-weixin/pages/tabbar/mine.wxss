@@ -1,0 +1,214 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.icon-youjiantou.data-v-2ad6d50a {
+  font-size: 38rpx;
+  color: #ffffff;
+}
+.clore.data-v-2ad6d50a {
+  width: 10rpx;
+  height: 10rpx;
+  border-radius: 50%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 1px solid #FFFFFF;
+}
+.box.data-v-2ad6d50a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.top.data-v-2ad6d50a {
+  margin-top: 30px;
+}
+.kefuIcon.data-v-2ad6d50a {
+  width: 25px;
+  height: 22px;
+}
+.kefuIcon > image.data-v-2ad6d50a {
+  width: 100%;
+}
+.useInfo.data-v-2ad6d50a {
+  text-align: left;
+}
+.imageConOne.data-v-2ad6d50a {
+  width: 28px;
+  height: 34px;
+  margin-right: 5px;
+}
+.imageConTwo.data-v-2ad6d50a {
+  width: 30px;
+  height: 26px;
+  margin-right: 5px;
+}
+.imageConOne > image.data-v-2ad6d50a {
+  width: 100%;
+  height: 100%;
+}
+.imageConTwo > image.data-v-2ad6d50a {
+  width: 100%;
+  height: 100%;
+}
+.meMain.data-v-2ad6d50a {
+  width: 100%;
+  position: relative;
+  background-color: #ff4848;
+}
+.meMain > image.data-v-2ad6d50a {
+  width: 100%;
+  height: 280rpx;
+  display: block;
+}
+.meMainBox.data-v-2ad6d50a {
+  width: 92%;
+  margin: 0 auto;
+}
+.mePosition.data-v-2ad6d50a {
+  width: 100%;
+}
+.meHead.data-v-2ad6d50a {
+  overflow: hidden;
+  position: relative;
+  padding: 20px 0 0 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.meHeadAvatar.data-v-2ad6d50a {
+  margin-top: 10rpx;
+}
+.meHeadAvatar image.data-v-2ad6d50a {
+  width: 110rpx;
+  height: 110rpx;
+  display: block;
+  border-radius: 50%;
+}
+.meHeadName.data-v-2ad6d50a {
+  color: #ffffff;
+  font-size: 28rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 10px;
+}
+.meOverBgOne.data-v-2ad6d50a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-top: -30px;
+  padding: 0 30rpx;
+  z-index: 999;
+  background-color: #ffffff;
+  border-radius: 30px 30px 0 0;
+}
+.meOverBg.data-v-2ad6d50a {
+  overflow: hidden;
+  border-radius: 10rpx;
+  margin-bottom: 30px;
+  padding: 15px 0;
+  color: #ffffff;
+}
+.meVisitor.data-v-2ad6d50a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+}
+.meVisitorLt.data-v-2ad6d50a {
+  width: 33.3%;
+  text-align: center;
+  margin: 30rpx 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.meVisitorTxt_01.data-v-2ad6d50a {
+  font-size: 28rpx;
+  text-align: center;
+}
+.meVisitorTxt_02.data-v-2ad6d50a {
+  font-size: 36rpx;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+}
+.meVisitorTitle.data-v-2ad6d50a {
+  font-size: 30rpx;
+  color: #333333;
+  border-bottom: 1px #e7e7e9 solid;
+  padding: 20rpx 30rpx;
+}
+.meOrderLt.data-v-2ad6d50a {
+  width: 25%;
+  text-align: center;
+  padding: 30rpx 0;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.meOrderLt.data-v-2ad6d50a:active {
+  background: #e2e2e2;
+}
+.meOrderTxt_01 image.data-v-2ad6d50a {
+  width: 40rpx;
+  height: 40rpx;
+  display: block;
+  margin: 0 auto 6rpx;
+}
+.meOrderTxt_02.data-v-2ad6d50a {
+  font-size: 24rpx;
+  color: #666666;
+}
+.businessList.data-v-2ad6d50a {
+  overflow: hidden;
+  padding: 30rpx 0;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.businessList.data-v-2ad6d50a:active {
+  background: #e2e2e2;
+}
+.businessListTxt.data-v-2ad6d50a {
+  font-size: 28rpx;
+  color: #333333;
+}
+

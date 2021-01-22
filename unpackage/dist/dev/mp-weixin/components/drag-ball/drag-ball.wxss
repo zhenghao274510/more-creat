@@ -1,0 +1,22 @@
+.ball {
+  width: 70rpx;
+  height: 70rpx;
+  background: -webkit-linear-gradient(top, #F8F8FF, #ff4848);
+  background: linear-gradient(to bottom, #F8F8FF, #ff4848);
+  border-radius: 50%;
+  box-shadow: 0 0 15rpx #ff4848;
+  color: #fff;
+  font-size: 26rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: fixed;
+  z-index: 9999;
+}
+

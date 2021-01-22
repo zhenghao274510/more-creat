@@ -1,0 +1,1 @@
+<view class="sec-footer"><block wx:for="{{nav}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['onNavTab',[index]]]]]}}" class="item" catchtap="__e"><image class="img" src="{{item.img}}"></image><text class="dc">{{item.txt}}</text></view></block></view>

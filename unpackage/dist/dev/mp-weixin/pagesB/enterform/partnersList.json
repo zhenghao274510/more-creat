@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "城市合伙人",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "empty": "/components/mycom/empty"
+  }
+}

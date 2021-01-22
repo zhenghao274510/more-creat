@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "page-head": "/components/mycom/page-head"
+  }
+}

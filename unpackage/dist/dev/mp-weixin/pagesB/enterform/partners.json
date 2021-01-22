@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "城市合伙人",
+  "usingComponents": {
+    "city-picker": "/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}

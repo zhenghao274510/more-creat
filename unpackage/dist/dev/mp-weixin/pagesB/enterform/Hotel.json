@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "酒店合作",
+  "usingComponents": {
+    "city-picker": "/components/mpvue-citypicker/mpvueCityPicker",
+    "lb-picker": "/components/lb-picker/index"
+  }
+}

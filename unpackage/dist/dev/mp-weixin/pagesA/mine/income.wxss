@@ -1,0 +1,120 @@
+
+page {
+	background-color: #F6F6F6;
+}
+
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.splace-line.data-v-79c6453e {
+  height: 10rpx;
+  background: #f7f7f7;
+}
+.top-red-text.data-v-79c6453e {
+  color: #ea0000;
+  margin-bottom: 20rpx;
+}
+.top-pad.data-v-79c6453e {
+  padding: 50rpx 0;
+}
+.colorfT.data-v-79c6453e {
+  color: #ea0000 !important;
+}
+.list-top.data-v-79c6453e {
+  color: #333333;
+  font-weight: bold;
+}
+.nav-title.data-v-79c6453e {
+  font-size: 30rpx;
+  color: #333333;
+  font-weight: bold;
+}
+.nav-title-state.data-v-79c6453e {
+  font-size: 26rpx;
+  color: #666666;
+  margin-left: 10rpx;
+}
+.com-list.data-v-79c6453e {
+  width: 90%;
+  height: 200rpx;
+  margin: 20rpx auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  background-color: #FFFFFF;
+  border-radius: 6rpx;
+  padding: 0 20rpx;
+}
+.com-list-left-info.data-v-79c6453e {
+  width: 65%;
+}
+.com-list-right-info.data-v-79c6453e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.income-top.data-v-79c6453e {
+  background: #fff;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
+  width: 100%;
+}
+.income-top .income-details.data-v-79c6453e {
+  padding: 50rpx 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.income-top .income-nav.data-v-79c6453e {
+  height: 80rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.income-top .income-nav .nav-item.data-v-79c6453e {
+  width: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100%;
+  font-size: 30rpx;
+  color: #333333;
+  position: relative;
+}
+.income-top .income-nav .nav-item.current.data-v-79c6453e:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -2rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 100%;
+  height: 0;
+  border-bottom: 2rpx solid #ea0000;
+}
+

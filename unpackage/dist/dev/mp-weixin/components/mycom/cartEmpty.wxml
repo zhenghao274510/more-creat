@@ -1,0 +1,1 @@
+<view class="cart-content"><view class="cart-nothing"><image class="empty-img" src="/static/img/kongshuju@2x.png" mode></image><view class="empty-text">暂无结算商品</view><view data-event-opts="{{[['tap',[['toDo',['$event']]]]]}}" class="empty-to" bindtap="__e">去逛逛</view></view></view>

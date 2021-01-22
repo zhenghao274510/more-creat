@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "城市业务员",
+  "usingComponents": {
+    "city-picker": "/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}

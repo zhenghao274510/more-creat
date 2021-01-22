@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['goot',['$event']]]]]}}" class="empty-content" bindtap="__e"><image class="empty-content-image" src="{{setSrc}}" mode="aspectFit"></image></view>

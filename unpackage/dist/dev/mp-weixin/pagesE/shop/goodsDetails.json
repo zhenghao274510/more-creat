@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav",
+    "uni-number-box": "/components/uni-number-box/goos-number-box",
+    "eva": "/components/mycom/goodEva"
+  }
+}

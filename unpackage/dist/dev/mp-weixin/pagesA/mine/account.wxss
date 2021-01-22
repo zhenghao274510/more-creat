@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.con.data-v-34788ca5 {
+  /* width: 100%; */
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  border-bottom: 1px solid #F8F8F8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.con .left .left-top.data-v-34788ca5 {
+  color: #1A1a1a;
+  font-size: 32rpx;
+}
+.con .left .left-end.data-v-34788ca5 {
+  color: #C8C7CC;
+}
+.con .right.data-v-34788ca5 {
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.con .one.data-v-34788ca5 {
+  color: #ff4848;
+}
+

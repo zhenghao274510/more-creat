@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商家详情",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "page-foot": "/components/mycom/page-foot",
+    "uni-collapse": "/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-collapse-item/uni-collapse-item"
+  }
+}

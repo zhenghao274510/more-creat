@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page {
+  height: 100%;
+  background: #FAFAFA;
+}
+.content {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.img {
+  height: 348rpx;
+}
+.iconColor {
+  color: #ff4848 !important;
+}
+.iconfont {
+  color: #ccc;
+  font-size: 10px !important;
+}
+.top-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 160rpx;
+  background: #ffffff;
+  z-index: 999;
+}
+.top-nav-item {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.top-nav-item-title {
+  text-align: center;
+}
+.top-nav-item-icon {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.uni-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.goods-list {
+  padding-top: 20rpx;
+}
+.goods-list .title {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 60rpx;
+  color: #979797;
+  font-size: 24rpx;
+}
+.goods-list .loading-text {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 60rpx;
+  color: #979797;
+  font-size: 24rpx;
+}
+.goods-list .product-list {
+  width: 95%;
+  padding: 0 2.5% 2.5vw 2.5%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.goods-list .product-list .product {
+  width: 48.75%;
+  border-radius: 20rpx;
+  background-color: #fff;
+  margin: 0 0 15rpx 0;
+}
+.goods-list .product-list .product image {
+  width: 100%;
+  border-radius: 20rpx 20rpx 0 0;
+}
+.goods-list .product-list .product .name {
+  padding: 10rpx 4%;
+  font-size: 30rpx;
+  line-height: 1.5;
+}
+.goods-list .product-list .product .info {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 10rpx 4% 10rpx 4%;
+  margin-top: 10rpx;
+}
+.goods-list .product-list .product .info .price {
+  color: #e65339;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.goods-list .product-list .product .info .slogan {
+  color: #807c87;
+  font-size: 24rpx;
+}
+

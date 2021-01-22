@@ -1,0 +1,206 @@
+
+page.data-v-6664f502 {
+	height: 100%;
+	background: #F8F8F8;
+}
+.list-box.data-v-6664f502 {
+	/* padding: 20upx 0; */
+}
+.slide_list.data-v-6664f502 {
+	height: 160rpx;
+}
+.now-message-info.data-v-6664f502 {
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size:30rpx;
+	height: 160rpx;
+	padding: 0 30rpx;
+	background: #FFFFFF;
+}
+.icon-left.data-v-6664f502 {
+	width: 100rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.icon-left .img.data-v-6664f502 {
+	width: 100rpx;
+	height: 100rpx;
+}
+.list-right.data-v-6664f502 {
+	margin-left: 25rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.list-right-1.data-v-6664f502 {
+	color: #A9A9A9;
+}
+.list-title.data-v-6664f502 {
+	width: 350rpx;
+	line-height: 1.5;
+	overflow: hidden;
+	color: #333;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+.list-detail.data-v-6664f502 {
+	font-size:26rpx;
+	padding: 20rpx 0 20rpx 20rpx;
+	color: #a9a9a9;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+.button-box.data-v-6664f502 {
+	box-sizing: border-box;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	z-index: 998;
+	background: #F8F8F8;
+}
+.btn-sub.data-v-6664f502 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	float: left;
+	width: 100%;
+	height: 100rpx;
+	background: #F8F8F8;
+	color: #7fb2ff;
+}
+.btn-plusempty.data-v-6664f502 {
+	width: 110rpx;
+	height: 110rpx;
+	background: #007bfa;
+	position: fixed;
+	bottom: 50rpx;
+	right: 20rpx;
+	border-radius: 100%;
+	overflow: hidden;
+	text-align: center;
+	line-height: 110rpx;
+}
+.empty.data-v-6664f502 {
+	color: #999999;
+}
+.plusempty-img.data-v-6664f502 {
+	width: 50rpx;
+	height: 50rpx;
+	margin-top: 30rpx;
+}
+.scan-box.data-v-6664f502 {
+	display: block;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0, 0, 0, 0.3);
+	z-index: 99999;
+}
+.scan-item.data-v-6664f502 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: relative;
+	margin: 0 auto;
+	width: 80%;
+	height: 100%;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	box-sizing: border-box;
+	opacity: 1;
+}
+.scan-content.data-v-6664f502 {
+	position: relative;
+	width: 400rpx;
+	height: 500rpx;
+	background: #FFFFFF;
+	border-radius: 20rpx;
+}
+.scan-icon.data-v-6664f502 {
+	position: absolute;
+	top: -50rpx;
+	left: 150rpx;
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 100%;
+	box-sizing: border-box;
+	background: #FFFFFF;
+	padding: 20rpx;
+}
+.scan-icon-img.data-v-6664f502 {
+	width: 100%;
+	height: 100%;
+}
+.scan-text.data-v-6664f502 {
+	position: absolute;
+	bottom: 40rpx;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 14px;
+}
+.scan-share.data-v-6664f502 {
+	width: 100%;
+	height: 100%;
+}
+.scan-img.data-v-6664f502 {
+	width: 300rpx;
+	height: 300rpx;
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 80rpx;
+	left: 50rpx;
+	z-index: 99;
+}
+.scan-btn.data-v-6664f502 {
+	top: -30rpx;
+	left: auto;
+	right: -30rpx;
+	bottom: auto;
+	position: absolute;
+	width: 64rpx;
+	height: 64rpx;
+	border-radius: 50%;
+	z-index: 99999;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.uni-list-cell-hover.data-v-6664f502 {
+	background-color: #eeeeee;
+}
+.bottom-btn-hover.data-v-6664f502 {
+	background: #0564c7 !important;
+}
+

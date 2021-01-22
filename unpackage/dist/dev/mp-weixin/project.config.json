@@ -1,0 +1,43 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "minified": true,
+    "postcss": true,
+    "es6": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wxf00e8d812df2c32b",
+  "projectname": "xin",
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pagesE/shop/goodsDetails",
+          "pathName": "pagesE/shop/goodsDetails",
+          "query": "id=94d01b6b18b24645a2d1ffd3fcd83b07",
+          "scene": null
+        },
+        {
+          "name": "pagesE/shop/goodsDetails",
+          "pathName": "pagesE/shop/goodsDetails",
+          "query": "id=5e5a698cf8c044ecb449117366070001",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的地址",
+  "usingComponents": {
+    "picker-city": "/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}
